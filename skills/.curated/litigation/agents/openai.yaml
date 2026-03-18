@@ -1,0 +1,6 @@
+interface:
+  display_name: "Litigation"
+  short_description: "Draft litigation documents, verify legal citations, and perform case law research"
+  icon_small: "./assets/litigation-small.svg"
+  icon_large: "./assets/litigation.png"
+  default_prompt: "Draft or review this legal document, verify all citations, and return the updated file with a concise change summary and any unverified citation flags."
